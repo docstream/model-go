@@ -1,0 +1,4 @@
+ KOM IGANG
+===========
+Etter clone mangler noen .go filer. 
+Bare kjør 'make', deretter 'go test ds3g/go-model'
