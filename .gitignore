@@ -1,0 +1,4 @@
+*.swp
+.project
+*.autogen.go
+*.iml
