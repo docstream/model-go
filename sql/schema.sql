@@ -1,4 +1,21 @@
+-- LESMEG:
+-- Dette er en SQL SCHEMA FIL SOM
+-- bruker spesial-kommentater for å 
+-- i tillegg generere .go kode
+--
+-- IKKE ROT I KOMMENTARFELTENE ! ! ! ! !
+--
+--
+--
+--
+-- ok ?
+
+
+
+
+
 -- PRAGMA stmt below should be set on 'open' in sqlite3
+
 PRAGMA foreign_keys=ON;
 
 
