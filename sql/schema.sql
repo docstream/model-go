@@ -34,7 +34,7 @@ CREATE TABLE routes (
                                         -- Must start w slash (/), cannot end in one,
                                         -- unless it is the same as starting slash ^o^
 	sort_index INTEGER DEFAULT 0,		-- xml:",attr" 
-    impl_repo INTEGER DEFAULT 0,        -- When multiple 'impl' dirs is to be joined
+    --impl_repo INTEGER DEFAULT 0,   When multiple 'impl' dirs is to be joined. NO THX!
     src TEXT DEFAULT NULL,              -- Rel-path to ebook git-repo, 
                                         -- NULL here is the same as type 'collection'
 
